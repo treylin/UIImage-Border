@@ -1,2 +1,2 @@
 # UIImage-Border
-An extension of UIImage to add border, writing in Swift 4.2.
+An extension of UIImage to add border to an image written in Swift.
