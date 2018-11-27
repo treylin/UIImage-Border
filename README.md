@@ -1,3 +1,4 @@
-# UIImage-Border
-A Swift extension of UIImage.  
--[]Add border.
+# UIImage-Border  
+
+A Swift extension of UIImage.     
+- [x] Add border.
